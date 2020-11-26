@@ -8,7 +8,7 @@ files:
     length: 24
     placeholder_text: TODO()
     initial_state:
-      length: 6
+      length: 24
       offset: 92
     initialized_from_dependency: false
     selected: true
@@ -48,5 +48,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 25 Nov 2020 23:55:26 UTC
+  time: Thu, 26 Nov 2020 00:21:46 UTC
 record: -1
